@@ -1,0 +1,4 @@
+[submodule "FaraBank"]
+	path = FaraBank
+	url = git@github.com:FaraBank/Workspace.git
+	ignore = all
