@@ -6,3 +6,7 @@
 	path = PayamaX
 	url = git@github.com:PayamaX/Workspace.git
 	ignore = all
+[submodule "ShareToClipboard"]
+	path = ShareToClipboard
+	url = git@github.com:behzadian/ShareToClipboard.git
+	ignore = all
