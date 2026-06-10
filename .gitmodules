@@ -10,3 +10,47 @@
 	path = ShareToClipboard
 	url = git@github.com:behzadian/ShareToClipboard.git
 	ignore = all
+[submodule "libs/No1.Commons"]
+	path = libs/No1.Commons
+	url = git@github.com:behzadian/No1.Commons.git
+	ignore = all
+[submodule "libs/No1.SerilogTestSink"]
+	path = libs/No1.SerilogTestSink
+	url = git@github.com:behzadian/No1.SerilogTestSink.git
+	ignore = all
+[submodule "libs/No1.NHibernateNodaTime"]
+	path = libs/No1.NHibernateNodaTime
+	url = git@github.com:behzadian/No1.NHibernateNodaTime.git
+	ignore = all
+[submodule "libs/No1.EnvBasedEndpoints"]
+	path = libs/No1.EnvBasedEndpoints
+	url = git@github.com:behzadian/No1.EnvBasedEndpoints.git
+	ignore = all
+[submodule "libs/No1.DockerSecretsResolver"]
+	path = libs/No1.DockerSecretsResolver
+	url = git@github.com:behzadian/No1.DockerSecretsResolver.git
+	ignore = all
+[submodule "libs/No1.asp.NET.Commons"]
+	path = libs/No1.asp.NET.Commons
+	url = git@github.com:behzadian/No1.asp.NET.Commons.git
+	ignore = all
+[submodule "etc/Domains"]
+	path = etc/Domains
+	url = git@github.com:behzadian/Domains.git
+	ignore = all
+[submodule "etc/Secrets"]
+	path = etc/Secrets
+	url = git@github.com:behzadian/Secrets.git
+	ignore = all
+[submodule "etc/Starter"]
+	path = etc/Starter
+	url = git@github.com:behzadian/Starter.git
+	ignore = all
+[submodule "etc/Career"]
+	path = etc/Career
+	url = git@github.com:behzadian/Career.git
+	ignore = all
+[submodule "boots/Boots.OpenSearchBoot"]
+	path = boots/Boots.OpenSearchBoot
+	url = git@github.com:behzadian/Boots.OpenSearchBoot.git
+	ignore = all
