@@ -54,3 +54,11 @@
 	path = boots/Boots.OpenSearchBoot
 	url = git@github.com:behzadian/Boots.OpenSearchBoot.git
 	ignore = all
+[submodule "libs/No1.asp.NET.PackedProgram"]
+	path = libs/No1.asp.NET.PackedProgram
+	url = git@github.com:behzadian/No1.asp.NET.PackedProgram.git
+	ignore = all
+[submodule "libs/No1.asp.NET.Security.git"]
+	path = libs/No1.asp.NET.Security.git
+	url = git@github.com:behzadian/No1.asp.NET.Security.git
+	ignore = all
