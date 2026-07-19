@@ -58,7 +58,11 @@
 	path = libs/No1.asp.NET.PackedProgram
 	url = git@github.com:behzadian/No1.asp.NET.PackedProgram.git
 	ignore = all
-[submodule "libs/No1.asp.NET.Security.git"]
-	path = libs/No1.asp.NET.Security.git
+[submodule "libs/No1.asp.NET.Security"]
+	path = libs/No1.asp.NET.Security
 	url = git@github.com:behzadian/No1.asp.NET.Security.git
+	ignore = all
+[submodule "libs/No1.OpenSearchCommons"]
+	path = libs/No1.OpenSearchCommons
+	url = git@github.com:behzadian/No1.OpenSearchCommons.git
 	ignore = all
