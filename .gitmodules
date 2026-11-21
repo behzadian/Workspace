@@ -66,3 +66,6 @@
 	path = libs/No1.OpenSearchCommons
 	url = git@github.com:behzadian/No1.OpenSearchCommons.git
 	ignore = all
+[submodule "libs/spring-schema-migration-generator"]
+	path = libs/spring-schema-migration-generator
+	url = git@gh.bz:HankBenz/spring-schema-migration-generator.git
