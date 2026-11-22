@@ -1,0 +1,25 @@
+aws_region = "eu-central-1"
+pax_tag    = "latest"
+
+# GitHub Container Registry credentials
+ghcr_username = "your-github-username"
+ghcr_token    = "ghp_your_personal_access_token"
+
+# PostgreSQL RDS configuration
+postgres_engine_version = "16"
+db_instance_class       = "db.t4g.micro"
+pax_pg_pg_usr           = "pg"
+pax_pg_pg_pwd           = "CHANGE_ME_MASTER_PWD"
+pax_pg_pg_db            = "fb"
+pax_pg_pax_dml_api_pwd  = "CHANGE_ME_DML_API_PWD"
+pax_pg_pax_ddl_fw_pwd   = "CHANGE_ME_DDL_FW_PWD"
+pax_pg_kc_owner_pwd     = "CHANGE_ME_KC_OWNER_PWD"
+
+# Keycloak & Application URLs
+pax_kc_admin_pwd   = "CHANGE_ME_KC_ADMIN_PWD"
+pax_kc_realm       = "payamax"
+pax_auth_realm_url = "https://auth.example.com/realms/payamax"
+pax_files_pub_url  = "https://files.example.com"
+pax_admin_url      = "https://admin.example.com"
+pax_kc_url         = "https://auth.example.com"
+pax_api_url        = "https://api.example.com"
