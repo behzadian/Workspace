@@ -69,3 +69,4 @@
 [submodule "libs/spring-schema-migration-generator"]
 	path = libs/spring-schema-migration-generator
 	url = git@gh.bz:HankBenz/spring-schema-migration-generator.git
+	ignore = all
